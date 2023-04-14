@@ -11,5 +11,4 @@ too much xD.
 
 ## Is it still being updated?
 
-No, this program was discontinued on March 26, 2023
-we had plans to make it do more fun stuff but we don't have the time.
+No, this program was discontinued on March 26, 2023! We had plans to make it do more fun stuff but we don't have the time. If you're a developer and you know how to create scripts then you can do whatever you want with it.

@@ -4,7 +4,7 @@
 The only thing it does is shutdown your pc, it won't
 harm your pc. And as always, you're using at your own risk.
 
-## Reason?
+## The reason why this exists?
 
 I created this because I was bored, don't expect
 too much xD.
